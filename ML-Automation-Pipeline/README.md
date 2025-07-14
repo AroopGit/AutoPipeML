@@ -4,7 +4,7 @@ A high-quality, production-ready Automated Machine Learning (AutoML) pipeline sy
 
 ---
 
-## 🚀 Quick Start: Use AutoML on Your Own Data (CLI)
+##  Quick Start: Use AutoML on Your Own Data (CLI)
 
 1. **Place your CSV file in the project directory** (e.g., `my_data.csv`).
 2. **Run this command in your terminal:**
@@ -24,7 +24,7 @@ A high-quality, production-ready Automated Machine Learning (AutoML) pipeline sy
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -45,7 +45,7 @@ pip install -e .
 
 ---
 
-## 🎯 Full Usage (Python & CLI)
+##  Full Usage (Python & CLI)
 
 ### Python API (for integration in your code)
 ```python
@@ -76,7 +76,7 @@ python -m ml_automation_pipeline.cli run --data your_data.csv --target target_co
 
 ---
 
-## 📋 CLI Commands
+##  CLI Commands
 
 - `run`: Start AutoML pipeline optimization
 - `monitor`: View real-time progress and logs
@@ -88,7 +88,7 @@ See `python -m ml_automation_pipeline.cli --help` for all options.
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 - **Generations**: Number of genetic algorithm generations (default: 10)
 - **Population Size**: Size of the population (default: 50)
@@ -98,7 +98,7 @@ See `python -m ml_automation_pipeline.cli --help` for all options.
 
 ---
 
-## 📁 Output Structure
+##  Output Structure
 
 ```
 outputs/
@@ -109,20 +109,20 @@ outputs/
 
 ---
 
-## 🧪 Testing & Examples
+##  Testing & Examples
 
 - See `demo_pipeline_workflow.py` for a full, commented example.
 - Use the sample data in `data/sample.csv` to try the system immediately.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [LGPL-3.0 License](https://www.gnu.org/licenses/lgpl-3.0.html) - see the LICENSE file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 - Inspired by the [TPOT project](https://github.com/EpistasisLab/tpot)
 - Built with [scikit-learn](https://scikit-learn.org/)
 - Genetic programming powered by [DEAP](https://deap.readthedocs.io/)
