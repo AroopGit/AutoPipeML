@@ -1,0 +1,2 @@
+[console_scripts]
+ml-automl = ml_automation_pipeline.cli:main

@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: ml_automation_pipeline
+Version: 0.1.0
+Summary: A production-ready Automated ML Pipeline System inspired by TPOT
+Home-page: https://github.com/yourusername/ML-Automation-Pipeline
+Author: Aroop Rath
+Author-email: work.arooprath@gmail.com
+Requires-Python: >=3.8
+Requires-Dist: scikit-learn>=1.2.0
+Requires-Dist: pandas>=1.5.0
+Requires-Dist: numpy>=1.23.0
+Requires-Dist: deap>=1.3.3
+Requires-Dist: tqdm>=4.64.0
+Requires-Dist: click>=8.1.0
+Requires-Dist: rich>=13.0.0
+Requires-Dist: joblib>=1.2.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

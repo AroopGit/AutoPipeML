@@ -1,0 +1,9 @@
+2025-07-07 16:48:39,126 - ml_automation_pipeline.utils - INFO - Successfully loaded data from data/sample.csv
+2025-07-07 16:48:39,127 - ml_automation_pipeline.utils - INFO - Data shape: (20, 7)
+2025-07-07 16:48:39,128 - ml_automation_pipeline.utils - INFO - Columns: ['feature1', 'feature2', 'feature3', 'feature4', 'feature5', 'target_classification', 'target_regression']
+2025-07-07 17:23:18,305 - ml_automation_pipeline.utils - INFO - Successfully loaded data from data/sample.csv
+2025-07-07 17:23:18,307 - ml_automation_pipeline.utils - INFO - Data shape: (20, 7)
+2025-07-07 17:23:18,307 - ml_automation_pipeline.utils - INFO - Columns: ['feature1', 'feature2', 'feature3', 'feature4', 'feature5', 'target_classification', 'target_regression']
+2025-07-07 17:29:37,135 - ml_automation_pipeline.utils - INFO - Successfully loaded data from data/sample.csv
+2025-07-07 17:29:37,136 - ml_automation_pipeline.utils - INFO - Data shape: (20, 7)
+2025-07-07 17:29:37,137 - ml_automation_pipeline.utils - INFO - Columns: ['feature1', 'feature2', 'feature3', 'feature4', 'feature5', 'target_classification', 'target_regression']

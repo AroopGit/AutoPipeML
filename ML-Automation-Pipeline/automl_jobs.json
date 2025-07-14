@@ -1,0 +1,55 @@
+{
+  "job_1751887119": {
+    "id": "job_1751887119",
+    "status": "failed",
+    "start_time": "2025-07-07T16:48:39.098558",
+    "data_file": "data/sample.csv",
+    "target": "target_classification",
+    "generations": 2,
+    "population_size": 5,
+    "cv_folds": 5,
+    "max_time": 10,
+    "problem_type": "auto",
+    "output_dir": "outputs",
+    "error": "Pipeline is not fitted yet.",
+    "end_time": "2025-07-07T16:48:40.260098"
+  },
+  "job_1751889198": {
+    "id": "job_1751889198",
+    "status": "failed",
+    "start_time": "2025-07-07T17:23:18.283949",
+    "data_file": "data/sample.csv",
+    "target": "target_classification",
+    "generations": 2,
+    "population_size": 5,
+    "cv_folds": 5,
+    "max_time": 10,
+    "problem_type": "auto",
+    "output_dir": "outputs",
+    "error": "Evaluation error: Pipeline is not fitted yet.",
+    "end_time": "2025-07-07T17:23:18.936714"
+  },
+  "job_1751889577": {
+    "id": "job_1751889577",
+    "status": "completed",
+    "start_time": "2025-07-07T17:29:37.116938",
+    "data_file": "data/sample.csv",
+    "target": "target_classification",
+    "generations": 2,
+    "population_size": 5,
+    "cv_folds": 5,
+    "max_time": 10,
+    "problem_type": "auto",
+    "output_dir": "outputs",
+    "end_time": "2025-07-07T17:29:37.652696",
+    "best_score": 1.0,
+    "metrics": {
+      "accuracy": 1.0
+    },
+    "pipeline_steps": [
+      "imputer",
+      "estimator"
+    ],
+    "pipeline_file": "outputs\\job_1751889577_pipeline.pkl"
+  }
+}

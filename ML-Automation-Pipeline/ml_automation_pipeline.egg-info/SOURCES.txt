@@ -1,0 +1,15 @@
+README.md
+setup.py
+ml_automation_pipeline/__init__.py
+ml_automation_pipeline/__main__.py
+ml_automation_pipeline/automl.py
+ml_automation_pipeline/cli.py
+ml_automation_pipeline/utils.py
+ml_automation_pipeline.egg-info/PKG-INFO
+ml_automation_pipeline.egg-info/SOURCES.txt
+ml_automation_pipeline.egg-info/dependency_links.txt
+ml_automation_pipeline.egg-info/entry_points.txt
+ml_automation_pipeline.egg-info/requires.txt
+ml_automation_pipeline.egg-info/top_level.txt
+tests/__init__.py
+tests/test_automl.py
